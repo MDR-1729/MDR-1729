@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A passionate FULL STACK PYTHON,UI DEVELOPER from INDIA</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.magnific.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5471.jpg?semt=ais_hybrid&w=740&q=80" style="border-radius: 15px;">
+<img align="right" alt="Coding" width="400" src="https://img.magnific.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5471.jpg?semt=ais_hybrid&w=740&q=80">
 
 - 🔭 I’m currently working on **Email Verify Application**
 
